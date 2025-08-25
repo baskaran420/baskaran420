@@ -1,16 +1,41 @@
-## Hi there 👋
+student.md
+# MY PROFILE
+BASKARAN S
+#### I AM PURSUVING B.TECH (IT) IN NATHAM
 
-<!--
-**baskaran420/baskaran420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
+# INTRODECTION
+NAME:BASKARAN S
+COURSE:B TECH (IT)2YEAR
+COLLEGE NAME:NPR COLLEGE OF ENHGINEERING & TECHNOLOGY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-------
+
+# SKILLS👍
+![PYTHON](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMybTR5YTJiZDc0dG5lcnQ1b2Fid3JzZzMwcHVnOTl6M2x4cmQ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)
+![HTML](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3gwa2NramJkcHVybGphMHlwd2pjdzhveWVqenU1bHkwZmUwZm1pbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif)
+ C++
+ JAVA SCRIPT
+ 
+ -----
+ 
+# GOALS🏆
+SHORT TERM GOAL:FINISHING THE ONLINE COURSE
+LONG TERM GOAL:FINISHING THE DEGREE good CGPA
+
+------
+# AIM🎢
+I AM BECAME A ARMY OFFICER I MY DREAM PROUD FULL DREAM IN MY LIFE 
+
+# STRENTH
+BREVE MAN 
+SELF MOTIVATOR
+
+-------
+
+# PROFILE LINKS
+[LINKEDIN PROFILE](http://www.linkedin.com/in/Baskaran/)
+[GITHUB PROFILE](http://www.github.com/in/Baskaran420/)
+
