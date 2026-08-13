@@ -1,41 +1,51 @@
-student.md
-# MY PROFILE
-BASKARAN S
-#### I AM PURSUVING B.TECH (IT) IN NATHAM
+# 👋 Hello, I'm BASKARAN S
 
------
+### 🎓 B.Tech Information Technology Student | 💻 Developer | 🚀 Future Army Officer
 
-# INTRODECTION
-NAME:BASKARAN S
-COURSE:B TECH (IT)2YEAR
-COLLEGE NAME:NPR COLLEGE OF ENHGINEERING & TECHNOLOGY
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;B.Tech+IT+Student;Learning+Java+%7C+Python+%7C+Web+Development;Future+Army+Officer+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</p>
 
+---
 
--------
+## 👨‍💻 About Me
 
-# SKILLS👍
-![PYTHON](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMybTR5YTJiZDc0dG5lcnQ1b2Fid3JzZzMwcHVnOTl6M2x4cmQ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)
-![HTML](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3gwa2NramJkcHVybGphMHlwd2pjdzhveWVqenU1bHkwZmUwZm1pbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif)
- C++
- JAVA SCRIPT
- 
- -----
- 
-# GOALS🏆
-SHORT TERM GOAL:FINISHING THE ONLINE COURSE
-LONG TERM GOAL:FINISHING THE DEGREE good CGPA
+- 🎓 **B.Tech Information Technology – 2nd Year**
+- 🏫 **NPR College of Engineering & Technology**
+- 📍 **Natham, Tamil Nadu**
+- 💻 Interested in **Programming & Web Development**
+- 📚 Currently improving my technical skills
+- 🎯 Focused on building real-world projects
+- 🇮🇳 My dream is to become an **Army Officer**
 
-------
-# AIM🎢
-I AM BECAME A ARMY OFFICER I MY DREAM PROUD FULL DREAM IN MY LIFE 
+---
 
-# STRENTH
-BREVE MAN 
-SELF MOTIVATOR
+## 🛠️ My Skills
 
--------
+### 💻 Programming Languages
 
-# PROFILE LINKS
-[LINKEDIN PROFILE](http://www.linkedin.com/in/Baskaran/)
-[GITHUB PROFILE](http://www.github.com/in/Baskaran420/)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python        ███████████████░░░  80%
+Java          ████████████░░░░░░  65%
+C++           ██████████░░░░░░░░  55%
+JavaScript    ███████████░░░░░░░  60%
+HTML & CSS    ████████████████░░  85%
