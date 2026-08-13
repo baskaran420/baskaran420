@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech Information Technology – 2nd Year**
+- 🎓 **B.Tech Information Technology – 3rd Year**
 - 🏫 **NPR College of Engineering & Technology**
 - 📍 **Natham, Tamil Nadu**
 - 💻 Interested in **Programming & Web Development**
